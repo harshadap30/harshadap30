@@ -27,7 +27,7 @@
 
 <br><br>
 
-- :Work: I am a `Data Scientist` at Eviden(https://eviden.com/).
+- :metal: I am a `Data Scientist` at Eviden(https://eviden.com/).
 - :trophy: I love learning new techs and using new tools.
 - :technologist: I love using data algorithms as a solution for every `Problem`.
 - :student: I’m currently learning `Generative AI` and `DevOps`.
