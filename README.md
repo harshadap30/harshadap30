@@ -34,7 +34,8 @@
 - :nerd_face: Always `learning new things`.
 - :thinking: this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
-- :yum: I love food and food loves me too.
+- :yum: I love food and food loves me too.<img align="right" width=200px height=200px alt="side_sticker" src="[https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif](https://giphy.com/gifs/jKaFXbKyZFja0)" />
+
 <br>
 
 
@@ -180,8 +181,4 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/harshadap30/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
