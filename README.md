@@ -23,7 +23,8 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true](https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif)" width = 250px></picture>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <br><br>
 
 - :metal: I am a `Data Scientist` at Eviden(https://eviden.com/).
