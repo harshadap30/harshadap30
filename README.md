@@ -32,8 +32,8 @@
 - :technologist: I love using data algorithms as a solution for every `Problem`.
 - :student: I’m currently learning `Generative AI` and `DevOps`.
 - :nerd_face: Always `learning new things`.
-- :thinking: this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: this is [MY RESUME]().
+- :boom: You can visit [MY WEBSITE]().
 - :yum: I love food and food loves me too.</b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
 
