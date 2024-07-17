@@ -32,8 +32,8 @@
 - :technologist: I love using data algorithms as a solution for every `Problem`.
 - :student: I’m currently learning `Generative AI` and `DevOps`.
 - :nerd_face: Always `learning new things`.
-- :thinking: this is [MY RESUME]().
-- :boom: You can visit [MY WEBSITE]().
+- :thinking: this is [MY RESUME](https://harshadap30.github.io/assets/resume/harshada%20Resume.pdf).
+- :boom: You can visit [MY WEBSITE](https://harshadap30.github.io/).
 - :yum: I love food and food loves me too.</b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
 
